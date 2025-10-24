@@ -1,37 +1,77 @@
-Awesome Chocolates - Power BI Sales Dashboard
-
 Project Overview
-The Awesome Chocolates Dashboard provides a comprehensive view of sales, profit, and shipment performance across multiple regions and product categories.
-This project was built using Power BI to transform raw sales data into actionable business insights and performance metrics.
 
-Business Objectives
-• Analyze overall company performance in terms of Sales, Profit, and Cost.
-• Identify top-performing salespersons and high-margin regions.
-• Track monthly sales trends and distribution of shipped boxes.
-• Enable regional and product-level filtering for dynamic insights.
+This Power BI dashboard provides an interactive overview of retail sales performance, enabling teams to make data-driven business decisions.
+It visualizes trends in revenue, profit, customer segments, and product categories — all in one dynamic view.
 
-Key Insights
-• Total Sales: $34M
-• Total Profit: $21M
-• Total Cost: $13.52M
-• Profit Margin: ~60%
-• Top-performing regions include USA and Australia.
-• Bars and Bites categories contribute the most to revenue.
+___
+Objective
 
-Dashboard Preview
+Analyze overall sales and profit performance.
+
+Identify top-performing regions, products, and customers.
+
+Discover seasonal sales patterns and growth trends.
+
+Build an intuitive dashboard for business reporting.
+___
 Tools & Technologies
-• Power BI Desktop – Data modeling and visualization
-• Excel – Initial data cleaning and formatting
-• DAX (Data Analysis Expressions) – Calculated measures and KPIs
-• SQL / Power Query – Data transformation
 
+Power BI – for dashboard design and data visualization.
+
+Excel / CSV Dataset – sales data source.
+
+Power Query – data cleaning and transformation.
+
+DAX (Data Analysis Expressions) – custom calculations and KPIs.
+___
+Dashboard Highlights
+
+Total Sales, Profit, and Quantity Overview
+
+Sales by Region / State / City
+
+Top-Selling Products and Categories
+
+Monthly and Yearly Sales Trends
+
+Customer Segment Analysis
+
+Profit Margin and Discount Impact
+____
+Key Insights
+
+Quarter 4 recorded the highest revenue, driven by festive sales.
+
+Top 5 products contributed to nearly 40% of total sales.
+
+The South region showed the strongest month-over-month growth.
+
+Discounts boosted short-term sales but slightly reduced overall margins.
+___
+Learnings
+
+Creating interactive dashboards using Power BI slicers and filters.
+
+Building calculated columns and measures using DAX.
+
+Structuring dashboards for executive-level reporting.
+
+Gaining experience in data storytelling and visualization design.
+
+___
 How to Use
-Download the .pbix file from the Power_BI_Files folder.
-Open it using Power BI Desktop.
-Interact with filters for Region, Category, or Salesperson.
-Explore KPIs, trends, and profitability metrics.
 
-Learnings & Outcomes
-• Improved understanding of data modeling and DAX calculations.
-• Gained hands-on experience with interactive dashboard design.
-• Demonstrated ability to translate data into strategic business insights.
+Download or clone the repository.
+
+Open the .pbix file in Power BI Desktop.
+
+Refresh the data source if needed.
+
+Explore the dashboard interactively to view insights and trends.
+___
+Conclusion
+
+The Retail Sales Dashboard highlights key performance indicators, identifies profitable products, and reveals regional and seasonal patterns.
+It demonstrates how Power BI can transform raw sales data into actionable business insights.d Cost.
+• Identify top-performing salespersons and high-margin regions.
+
