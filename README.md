@@ -3,6 +3,9 @@ Project Overview
 This Power BI dashboard provides an interactive overview of retail sales performance, enabling teams to make data-driven business decisions.
 It visualizes trends in revenue, profit, customer segments, and product categories — all in one dynamic view.
 
+![Portfolio Dashboard](Power Bi Dashboard Screenshot.png)
+
+See the Full Dashboard Here : https://app.powerbi.com/view?r=eyJrIjoiNjgwYjU3OTUtNjEwZS00OWE2LWFhNWQtOTE5ZDhlZDA3MWMwIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9
 ___
 Objective
 
